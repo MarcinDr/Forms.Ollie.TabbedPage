@@ -1,0 +1,5 @@
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\bin\Debug\Forms.Ollie.TabbedPage.dll
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\bin\Debug\Forms.Ollie.TabbedPage.pdb
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\obj\Debug\Forms.Ollie.TabbedPage.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\obj\Debug\Forms.Ollie.TabbedPage.dll
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\Forms.Ollie.TabbedPage\obj\Debug\Forms.Ollie.TabbedPage.pdb
